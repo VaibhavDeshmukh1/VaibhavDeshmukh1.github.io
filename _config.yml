@@ -23,7 +23,7 @@ repository               : "VaibhavDeshmukh1/VaibhavDeshmukh1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Vaibhav Deshmukh"
   pronouns         : # example: "she/her"  
   bio              : "High school junior at Stevenson, researching agentic AI at Northwestern."
