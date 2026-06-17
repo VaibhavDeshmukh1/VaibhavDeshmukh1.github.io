@@ -7,15 +7,6 @@ tags:
   - bootcamp
   - learning
 ---
----
-title: 'First Two Weeks at the Northwestern AI Bootcamp'
-date: 2026-06-17
-permalink: /posts/2026/06/first-two-weeks/
-tags:
-  - AI
-  - bootcamp
-  - learning
----
 
 These first two weeks of the Northwestern Agentic AI Bootcamp have been a lot more hands-on than I expected. I came into the program with some Python experience, but I had never made an actual API call or worked with any language models programmatically, so almost everything I learned was new.
 
