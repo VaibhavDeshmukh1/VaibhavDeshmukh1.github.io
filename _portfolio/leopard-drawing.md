@@ -7,4 +7,6 @@ header:
   teaser: /images/leopard.JPG
 ---
 
-{% include figure image_path="/images/leopard.JPG" alt="Leopard drawing" caption="The spots were the hardest part, since getting the pattern to look natural took a lot of trial and error." %}
+![Leopard drawing](/images/leopard.JPG)
+
+*The spots were the hardest part, since getting the pattern to look natural took a lot of trial and error.*

@@ -1,0 +1,23 @@
+[33mc52c32d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m fix portfolio teaser display
+[33mac02525[m fix image path casing for portfolio teasers
+[33m36a14eb[m fix portfolio image syntax
+[33m1e86871[m added personal captions to portfolio images
+[33m58e5a60[m added art portfolio pieces
+[33m256979a[m added art portfolio pieces
+[33m6825136[m added first blog post
+[33m525aec7[m fix blog post formatting
+[33m4c5638b[m added first blog post
+[33m8e48abf[m added first blog post
+[33mf4da26e[m cleaned up unused profile fields in config
+[33m273bf24[m updated about page content
+[33m4be8f1c[m changed theme
+[33mcff92f6[m cropped profile photo to square
+[33m8b04fd0[m removed sample talks
+[33ma977e1c[m removed sample publications
+[33m3291890[m removed sample blog posts
+[33m875bd57[m fix double images path in avatar
+[33mc9ac871[m fix avatar path
+[33mb0071aa[m added profile photo
+[33m7d34775[m added profile photo
+[33m4059035[m customized config, about page, and menu
+[33md19bdb0[m Initial commit

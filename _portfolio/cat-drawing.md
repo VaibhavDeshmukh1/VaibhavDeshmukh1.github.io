@@ -7,4 +7,6 @@ header:
   teaser: /images/cat.JPG
 ---
 
-{% include figure image_path="/images/cat.JPG" alt="Cat drawing" caption="Drawn in graphite over a few sessions. The fur took the longest to get right." %}
+![Cat drawing](/images/cat.JPG)
+
+*Drawn in graphite over a few sessions. The fur took the longest to get right.*
