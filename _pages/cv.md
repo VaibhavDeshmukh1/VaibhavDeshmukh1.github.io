@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Adlai E. Stevenson High School, Lincolnshire, IL — Expected May 2027
+  * GPA: 4.56 weighted / 4.00 unweighted, ACT 36, SAT 1530
+* College of Lake County, Grayslake, IL (Dual Enrollment) — 2024-2026
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* SPARK Agentic AI Research Program, Northwestern University — 2026
+  * Researching generative and agentic AI applications using Python and AI-driven workflows
+  * Working on RAG pipelines and knowledge-graph evaluation systems
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Honors and Awards
+======
+* FBLA Illinois State Champion, Real Estate
+* Illinois Personal Finance Challenge State Finalist (Top 10 statewide)
+* AP Scholar 2025
+* Adlai E. Stevenson Gold Honor Roll, 6 consecutive semesters
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Work Experience
+======
+* Lifeguard and Swim Instructor, Vernon Area Park District — 2025-Present
+  * Performed two life-saving rescues
+  * Monitor 50+ patrons per shift, maintain Red Cross certifications
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Java
+* AI/Agentic Workflows, Retrieval-Augmented Generation
+* Data Analytics, Microsoft Excel
 
-Publications
+Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Oracle Cloud AI Foundations Associate
+* Red Cross Lifeguarding, CPR/AED, First Aid
+* Taekwondo Black Belt
