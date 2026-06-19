@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Adlai E. Stevenson High School, Lincolnshire, IL — Expected May 2027
-  * GPA: 4.56 weighted / 4.00 unweighted, ACT 36, SAT 1530
+  * GPA: 4.61 weighted / 4.00 unweighted, ACT 36, SAT 1530
 * College of Lake County, Grayslake, IL (Dual Enrollment) — 2024-2026
 
 Research Experience
