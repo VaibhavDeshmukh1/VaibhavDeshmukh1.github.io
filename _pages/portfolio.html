@@ -7,18 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-
+<div class="portfolio-grid">
 {% for post in site.portfolio %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+</div>
 
 <style>
-  .archive {
+  .portfolio-grid {
     display: grid !important;
     grid-template-columns: repeat(2, 1fr) !important;
     gap: 1.5em !important;
   }
-  .archive .grid__item {
+  .portfolio-grid .grid__item {
     width: auto !important;
     max-width: none !important;
     margin: 0 !important;
