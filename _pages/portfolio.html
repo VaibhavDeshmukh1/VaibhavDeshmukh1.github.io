@@ -9,12 +9,20 @@ author_profile: true
 
 
 {% for post in site.portfolio %}
-  {% include archive-single.html type="grid"%}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 
 <style>
+  .archive {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1.5em !important;
+  }
   .archive .grid__item {
-    flex: 0 1 calc(50% - 1em) !important;
-    max-width: calc(50% - 1em) !important;
+    width: auto !important;
+    max-width: none !important;
+    margin: 0 !important;
+    float: none !important;
+    clear: none !important;
   }
 </style>
