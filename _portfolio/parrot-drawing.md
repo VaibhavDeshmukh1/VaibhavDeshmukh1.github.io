@@ -4,7 +4,7 @@ excerpt: "Graphite drawing"
 collection: portfolio
 category: "Art"
 header:
-  teaser: /images/parrot.JPG
+  teaser: parrot.JPG
 ---
 
 ![Parrot drawing](/images/parrot.JPG)
