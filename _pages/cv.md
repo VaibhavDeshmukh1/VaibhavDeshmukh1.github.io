@@ -12,14 +12,13 @@ redirect_from:
 Education
 ======
 * Adlai E. Stevenson High School, Lincolnshire, IL — Expected May 2027
-  * GPA: 4.61 weighted / 4.00 unweighted, ACT 36, SAT 1530
+  * GPA: 4.56 weighted / 4.00 unweighted, ACT 36, SAT 1530
 * College of Lake County, Grayslake, IL (Dual Enrollment) — 2024-2026
 
 Research Experience
 ======
-* SPARK Agentic AI Research Program, Northwestern University — 2026
-  * Researching generative and agentic AI applications using Python and AI-driven workflows
-  * Working on RAG pipelines and knowledge-graph evaluation systems
+* SPARK Agentic AI Research Program, Northwestern University — Summer 2026 (in progress)
+  * Completing a training module on AI agents before joining a research project team
 
 Honors and Awards
 ======
@@ -37,7 +36,6 @@ Work Experience
 Skills
 ======
 * Python, Java
-* AI/Agentic Workflows, Retrieval-Augmented Generation
 * Data Analytics, Microsoft Excel
 
 Certifications
