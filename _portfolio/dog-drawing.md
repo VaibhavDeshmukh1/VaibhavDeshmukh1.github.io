@@ -1,6 +1,6 @@
 ---
 title: "Dog"
-excerpt: "Graphite drawing"
+excerpt: "Graphite drawing, 2024"
 collection: portfolio
 category: "Art"
 header:

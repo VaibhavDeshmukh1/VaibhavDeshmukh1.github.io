@@ -1,6 +1,6 @@
 ---
 title: "Leopard"
-excerpt: "Graphite drawing"
+excerpt: "Graphite drawing, 2022"
 collection: portfolio
 category: "Art"
 header:

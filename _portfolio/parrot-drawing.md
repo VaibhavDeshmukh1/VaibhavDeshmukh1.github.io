@@ -1,6 +1,6 @@
 ---
 title: "Parrot"
-excerpt: "Graphite drawing"
+excerpt: "Graphite drawing, 2025"
 collection: portfolio
 category: "Art"
 header:
