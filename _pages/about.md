@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Vaibhav, a junior at Adlai E. Stevenson High School in Buffalo Grove, IL. I'm interested in the intersection of AI, business, and STEM research.
+Hi, I'm Vaibhav, a senior at Adlai E. Stevenson High School in Buffalo Grove, IL. I'm interested in the intersection of AI, business, and STEM research.
 
 ## What I'm working on
 
