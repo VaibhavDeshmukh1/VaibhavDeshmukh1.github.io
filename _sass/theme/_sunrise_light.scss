@@ -2,22 +2,23 @@
    SUNRISE THEME - LIGHT VERSION
    ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #fc3a52;
+$primary-color              : #1a3a52;
+$accent-color               : #00a8cc;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
 $lighter-primary-color      : mix(#fff, $primary-color, 90%);
-$background                 : #e8d5b7;
+$background                 : #ffffff;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter        : #ffffff;
-$text                      : #000000;
-$text-muted                : #0e2431;
-$link                      : mix(#000, $primary-color, 10%);
+$text                      : #333333;
+$text-muted                : #56636d;
+$link                      : $primary-color;
 $link-dark                 : mix(#000, $link, 25%);
-$link-light                : mix(#fff, $link, 25%);
-$footer                    : #f9b248;
-$border                    : mix(#000, $background, 20%);
-$border-dark               : mix(#000, $background, 30%);
+$link-light                : #007c98;
+$footer                    : $primary-color;
+$border                    : #d8e1e7;
+$border-dark               : #b7c6d0;
 
 /* Color codes used for the site */
 $danger-color               : #cc6666;
@@ -39,6 +40,7 @@ $sidebar-screen-min-width   : 1024px;
 /* Light theme for the site */
 :root {
     --global-base-color                 : #{$primary-color};
+    --global-accent-color               : #{$accent-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$border};
@@ -50,7 +52,8 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-hover           : #{$link-light};
     --global-link-color-visited         : #{$link-dark};
     --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$text-muted};
+    --global-masthead-link-color-hover  : #{$link-light};
+    --global-heading-color              : #{$primary-color};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-light};
