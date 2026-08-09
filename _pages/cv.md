@@ -9,36 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * Adlai E. Stevenson High School, Lincolnshire, IL — Expected May 2027
   * GPA: 4.61 weighted / 4.00 unweighted, ACT 36, SAT 1530
 * College of Lake County, Grayslake, IL (Dual Enrollment) — 2024-2026
 
-Research Experience
+RESEARCH EXPERIENCE
 ======
 * SPARK Agentic AI Research Program, Northwestern University — Summer 2026 (in progress)
   * Completing a training module on AI agents before joining a research project team
 
-Honors and Awards
+HONORS AND AWARDS
 ======
 * FBLA Illinois State Champion, Real Estate
 * Illinois Personal Finance Challenge State Finalist (Top 10 statewide)
 * AP Scholar 2025
 * Adlai E. Stevenson Gold Honor Roll, 6 consecutive semesters
 
-Work Experience
+WORK EXPERIENCE
 ======
 * Lifeguard and Swim Instructor, Vernon Area Park District — 2025-Present
   * Performed two life-saving rescues
   * Monitor 50+ patrons per shift, maintain Red Cross certifications
 
-Skills
+SKILLS
 ======
 * Python, Java
 * Data Analytics, Microsoft Excel
 
-Certifications
+CERTIFICATIONS
 ======
 * Oracle Cloud AI Foundations Associate
 * Red Cross Lifeguarding, CPR/AED, First Aid
