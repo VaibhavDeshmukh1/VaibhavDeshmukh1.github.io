@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
+Education
 ======
 * Adlai E. Stevenson High School, Lincolnshire, IL — Expected May 2027
   * GPA: 4.61 weighted / 4.00 unweighted, ACT 36, SAT 1530
@@ -17,14 +17,14 @@ EDUCATION
 
 <section class="content-card experience-card" markdown="1">
 
-RESEARCH EXPERIENCE
+Research Experience
 ======
 * SPARK Agentic AI Research Program, Northwestern University — Summer 2026 (in progress)
   * Completing a training module on AI agents before joining a research project team
 
 </section>
 
-HONORS AND AWARDS
+Honors and Awards
 ======
 * FBLA Illinois State Champion, Real Estate
 * Illinois Personal Finance Challenge State Finalist (Top 10 statewide)
@@ -33,7 +33,7 @@ HONORS AND AWARDS
 
 <section class="content-card experience-card" markdown="1">
 
-WORK EXPERIENCE
+Work Experience
 ======
 * Lifeguard and Swim Instructor, Vernon Area Park District — 2025-Present
   * Performed two life-saving rescues
@@ -41,12 +41,12 @@ WORK EXPERIENCE
 
 </section>
 
-SKILLS
+Skills
 ======
 * Python, Java
 * Data Analytics, Microsoft Excel
 
-CERTIFICATIONS
+Certifications
 ======
 * Oracle Cloud AI Foundations Associate
 * Red Cross Lifeguarding, CPR/AED, First Aid

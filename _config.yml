@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 # site_theme             : "sunrise" # Disabled so the custom stylesheet controls the visual design
-title                    : "VAIBHAV DESHMUKH"
+title                    : "Vaibhav Deshmukh"
 title_separator          : "-"
 name                     : &name "Vaibhav Deshmukh"
 description              : &description "High school student exploring AI, business, and STEM research"   # Update this with a general description of your site, this is the default if not overridden by a page
