@@ -171,6 +171,14 @@ h6 {
   }
 }
 
+/* Keep desktop content clear of the fixed author sidebar and long profile text. */
+@media screen and (min-width: 1024px) {
+  .main-content {
+    width: calc(83.333333% - 5rem);
+    margin-left: 5rem;
+  }
+}
+
 .btn:hover {
   color: #1a1a1a !important;
   background-color: #f0d77b;
