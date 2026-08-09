@@ -1,17 +1,12 @@
 ---
-layout: page
-title: About
-permalink: /about/
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 Hi, I'm Vaibhav, a senior at Adlai E. Stevenson High School in Buffalo Grove, IL. As I enter my senior year, I'm especially interested in real estate, agentic AI, and machine learning.
-
-## Awards & Certifications
-
-- FBLA: Illinois State Champion (Real Estate), National Qualifier, 5th place at nationals
-- AP Scholar with Distinction 2026
-- Ambassador Award - Adlai E. Stevenson High School
-- Agentic AI Summer Bootcamp Certificate - Northwestern University
 
 ## What I'm working on
 
