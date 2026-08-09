@@ -125,10 +125,49 @@ h6 {
   margin-top: 2rem;
 }
 
+/* Portfolio previews retain each drawing's full aspect ratio. */
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2rem;
+  align-items: start;
+
+  .grid__item {
+    float: none !important;
+    clear: none !important;
+    width: auto !important;
+    max-width: none !important;
+    margin: 0 !important;
+  }
+
+  .archive__item-teaser {
+    max-height: none !important;
+    padding: 0.75rem;
+    overflow: hidden;
+    background-color: #0f0f0f;
+    border: 1px solid rgba(212, 175, 55, 0.55);
+    border-radius: $custom-card-radius;
+  }
+
+  .archive__item-teaser img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    max-height: none;
+    margin: 0 auto;
+    object-fit: contain;
+  }
+}
+
 @include breakpoint($medium) {
   #main {
     padding-right: 2rem;
     padding-left: 2rem;
+  }
+
+  .portfolio-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
