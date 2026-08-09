@@ -137,6 +137,54 @@ h6 {
   }
 }
 
+/* Larger, proportional author profile on the home page. */
+@media screen and (min-width: 1024px) {
+  .home-page .sidebar {
+    width: 300px;
+    max-width: 300px;
+    padding-right: 0;
+  }
+
+  .home-page .author__avatar,
+  .home-page .author__avatar img {
+    width: 300px;
+    max-width: 300px;
+  }
+
+  .home-page .author__content {
+    margin-top: 1.5rem;
+  }
+
+  .home-page .sidebar .author__name {
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    line-height: 1.1;
+  }
+
+  .home-page .sidebar .author__bio {
+    margin-bottom: 1.5rem;
+    font-size: 1.35rem;
+    line-height: 1.5;
+  }
+
+  .home-page .sidebar .author__urls-wrapper,
+  .home-page .sidebar .author__urls li,
+  .home-page .sidebar .author__urls a {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+
+  .home-page .sidebar .author__urls li {
+    margin-bottom: 0.5rem;
+  }
+
+  .home-page .archive {
+    float: right;
+    width: calc(100% - 340px);
+    margin-left: 0;
+  }
+}
+
 .btn:hover {
   background-color: #007c98;
 }
