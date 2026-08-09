@@ -140,9 +140,15 @@ h6 {
 /* Larger, proportional author profile on the home page. */
 @media screen and (min-width: 1024px) {
   .home-page .sidebar {
+    position: relative;
+    float: left;
     width: 300px;
     max-width: 300px;
+    height: auto;
     padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 3rem;
+    overflow: visible;
   }
 
   .home-page .author__avatar,
@@ -157,30 +163,32 @@ h6 {
 
   .home-page .sidebar .author__name {
     margin-bottom: 1rem;
-    font-size: 3rem;
+    font-size: 2.25rem;
     line-height: 1.1;
   }
 
   .home-page .sidebar .author__bio {
     margin-bottom: 1.5rem;
-    font-size: 1.35rem;
+    font-size: 1rem;
     line-height: 1.5;
   }
 
   .home-page .sidebar .author__urls-wrapper,
   .home-page .sidebar .author__urls li,
   .home-page .sidebar .author__urls a {
-    font-size: 1.1rem;
+    font-size: 0.95rem;
     line-height: 1.5;
   }
 
   .home-page .sidebar .author__urls li {
     margin-bottom: 0.5rem;
+    white-space: normal;
+    overflow-wrap: anywhere;
   }
 
   .home-page .archive {
     float: right;
-    width: calc(100% - 340px);
+    width: calc(100% - 360px);
     margin-left: 0;
   }
 }
