@@ -218,6 +218,15 @@ select {
   border-color: var(--global-bg-color) transparent;
 }
 
+.site-ai-credit {
+  clear: both;
+  margin: 3rem auto 1.5rem;
+  padding: 0 1.5rem;
+  color: var(--global-text-color-light);
+  font-size: 0.85rem;
+  text-align: center;
+}
+
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
   border-bottom-color: var(--global-accent-color);

@@ -34,6 +34,7 @@ Honors and Awards
 * Illinois Personal Finance Challenge State Finalist (Top 10 statewide)
 * AP Scholar with Distinction 2026
 * AP Scholar 2025
+* Ambassador Award — Adlai E. Stevenson High School
 * Adlai E. Stevenson Gold Honor Roll, 6 consecutive semesters
 
 <section class="content-card experience-card" markdown="1">
