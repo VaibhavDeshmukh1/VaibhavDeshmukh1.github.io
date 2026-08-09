@@ -15,10 +15,14 @@ EDUCATION
   * GPA: 4.61 weighted / 4.00 unweighted, ACT 36, SAT 1530
 * College of Lake County, Grayslake, IL (Dual Enrollment) — 2024-2026
 
+<section class="content-card experience-card" markdown="1">
+
 RESEARCH EXPERIENCE
 ======
 * SPARK Agentic AI Research Program, Northwestern University — Summer 2026 (in progress)
   * Completing a training module on AI agents before joining a research project team
+
+</section>
 
 HONORS AND AWARDS
 ======
@@ -27,11 +31,15 @@ HONORS AND AWARDS
 * AP Scholar 2025
 * Adlai E. Stevenson Gold Honor Roll, 6 consecutive semesters
 
+<section class="content-card experience-card" markdown="1">
+
 WORK EXPERIENCE
 ======
 * Lifeguard and Swim Instructor, Vernon Area Park District — 2025-Present
   * Performed two life-saving rescues
   * Monitor 50+ patrons per shift, maintain Red Cross certifications
+
+</section>
 
 SKILLS
 ======
