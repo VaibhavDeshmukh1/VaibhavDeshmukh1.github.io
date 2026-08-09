@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+# site_theme             : "sunrise" # Disabled so the custom stylesheet controls the visual design
 title                    : "Vaibhav Deshmukh"
 title_separator          : "-"
 name                     : &name "Vaibhav Deshmukh"
