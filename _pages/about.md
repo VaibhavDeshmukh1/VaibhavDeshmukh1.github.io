@@ -6,19 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Vaibhav, a senior at Adlai E. Stevenson High School in Buffalo Grove, IL. I'm interested in the intersection of AI, business, and STEM research.
+Hi, I'm Vaibhav, a senior at Adlai E. Stevenson High School in Buffalo Grove, IL. As I enter my senior year, I'm especially interested in real estate, agentic AI, and machine learning.
 
 ## What I'm working on
 
-I'm currently part of the Stevenson SPARK program, doing summer research with
-the Integrative AI Lab at Northwestern University. My focus is on agentic AI,
-where I will build systems that can read scientific papers, organize information into knowledge graphs, and ultimately help researchers find what they need.
+Through the Northwestern SPARK Summer Bootcamp, I built a multi-label arXiv paper classification pipeline and a knowledge graph from 1,020 research papers. The project combined neural networks, feature extraction, and confidence scoring to organize scientific literature by task, method, domain, dataset, and metric.
 
 ## Background
 
-Outside of research, I compete with Future Business Leaders of America in real estate, swim competitively, and have been an independent artist practicing my artwork for the last 12 years. During the summer, I also work as a lifeguard and swim instructor.
+Outside of research, I compete with Future Business Leaders of America in real estate, swim competitively, and create wildlife art as an independent artist with 12 years of experience. During the summer, I also work as a lifeguard and swim instructor.
 
-My interest in AI specifically comes from wanting to understand both what these tools can do well and where they have limitations. The Northwestern bootcamp has been my first opportunity to explore this in depth, and the experience has been valuable so far.
+My interest in AI comes from wanting to understand both what these tools can do well and where they have limitations. The Northwestern bootcamp gave me the opportunity to explore these questions through applied machine learning research.
 
 ## Get in touch
 

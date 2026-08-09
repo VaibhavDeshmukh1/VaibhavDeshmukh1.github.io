@@ -19,14 +19,18 @@ Education
 
 Research Experience
 ======
-* SPARK Agentic AI Research Program, Northwestern University — Summer 2026 (in progress)
-  * Completing a training module on AI agents before joining a research project team
+* Northwestern SPARK Bootcamp — Summer 2026
+  * Built an arXiv paper classification pipeline using neural networks and feature extraction
+  * Created a multi-label classification system for Task, Method, Domain, Dataset, and Metric with confidence scoring
+  * Constructed a knowledge graph with 6,476 nodes and 12,829 edges from 1,020 papers
+  * Tested alternative feature representations, including TF-IDF and neural architectures
+  * Final report: *Multi-label arXiv classification and knowledge graph construction*
 
 </section>
 
 Honors and Awards
 ======
-* FBLA Illinois State Champion, Real Estate
+* FBLA Real Estate — Illinois State Champion, National Qualifier, 5th Place at Nationals
 * Illinois Personal Finance Challenge State Finalist (Top 10 statewide)
 * AP Scholar 2025
 * Adlai E. Stevenson Gold Honor Roll, 6 consecutive semesters
@@ -48,6 +52,8 @@ Skills
 
 Certifications
 ======
+* Agentic AI Summer Bootcamp Certificate — Northwestern University, Integrative AI Lab and Genios Lab
+  * Program Directors: Bahador Bahmani, Minshuo Chen, Naichen Shi
 * Oracle Cloud AI Foundations Associate
 * Red Cross Lifeguarding, CPR/AED, First Aid
 * Taekwondo Black Belt

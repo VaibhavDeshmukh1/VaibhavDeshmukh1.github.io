@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Vaibhav Deshmukh"
 title_separator          : "-"
 name                     : &name "Vaibhav Deshmukh"
-description              : &description "High school student exploring AI, business, and STEM research"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "High school senior exploring real estate, agentic AI, and machine learning"   # Update this with a general description of your site, this is the default if not overridden by a page
 google_fonts_url         : "https://fonts.googleapis.com/css2?family=Inter:wght@600;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap"
 url                      : "https://VaibhavDeshmukh1.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -27,7 +27,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Vaibhav Deshmukh"
   pronouns         : # example: "she/her"  
-  bio              : "High school senior at Stevenson, researching agentic AI at Northwestern."
+  bio              : "Stevenson senior exploring real estate, agentic AI, and machine learning."
   location         : "Buffalo Grove, IL"
   employer         : "Adlai E. Stevenson High School"
   uri              : # URL
