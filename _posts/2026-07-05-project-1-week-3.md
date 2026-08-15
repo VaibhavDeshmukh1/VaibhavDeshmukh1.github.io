@@ -2,6 +2,7 @@
 title: "Project 1 Progress: Week 3"
 date: 2026-07-05
 permalink: /posts/2026/07/project-1-week-3/
+reading_time: "2 min read"
 tags: AI bootcamp research arXiv
 ---
 

@@ -1,3 +1,8 @@
+{% if post.reading_time %}
+  {{ post.reading_time }}
+{% elsif page.reading_time %}
+  {{ page.reading_time }}
+{% else %}
 {% if post.read_time %}
   {% assign words = post.content | strip_html | number_of_words %}
 {% elsif page.read_time %}
@@ -14,4 +19,5 @@
 	{% endif %}
 {% else %}
   {{ site.data.ui-text[site.locale].undefined_wpm | "Undefined parameter words_per_minute at _config.yml" }}
+{% endif %}
 {% endif %}

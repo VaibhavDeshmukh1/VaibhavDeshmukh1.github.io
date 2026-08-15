@@ -2,6 +2,7 @@
 title: 'First Two Weeks at the Northwestern AI Bootcamp'
 date: 2026-06-17
 permalink: /posts/2026/06/first-two-weeks/
+reading_time: "2 min read"
 tags:
   - AI
   - bootcamp
