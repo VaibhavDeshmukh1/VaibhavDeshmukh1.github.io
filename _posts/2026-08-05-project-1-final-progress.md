@@ -2,6 +2,8 @@
 layout: post
 title: "Project 1 Progress: Classification Results and Feature Experimentation"
 date: 2026-08-05
+permalink: /posts/2026/08/project-1-week-6-7/
+tags: AI bootcamp research arXiv SPARK classification
 ---
 
 After completing the classification notebook, I built and trained a neural network classifier on the 1000 arXiv papers using the five extracted features. The model was a three-layer network designed to predict each paper's primary category from task, method, dataset, metric, and domain. Results showed 50% test accuracy across 76 categories, which raised an important question: the baseline of always guessing the most common category achieved 57% accuracy, meaning the extracted features alone were not carrying enough signal to be useful.
