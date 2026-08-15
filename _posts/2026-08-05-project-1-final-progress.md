@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Project 1 Progress: Classification Results and Feature Experimentation"
 date: 2026-08-05
 permalink: /posts/2026/08/project-1-week-6-7/
